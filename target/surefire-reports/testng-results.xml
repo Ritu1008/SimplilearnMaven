@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37879" started-at="2023-04-29T07:25:51Z" finished-at="2023-04-29T07:26:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37879" started-at="2023-04-29T07:25:51Z" finished-at="2023-04-29T07:26:29Z">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="ReportSetup()[pri:0, instance:test.LoginTest@6591f517]" name="ReportSetup" is-config="true" duration-ms="572" started-at="2023-04-29T07:25:51Z" finished-at="2023-04-29T07:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:test.LoginTest@6591f517]" name="SetUp" is-config="true" duration-ms="3606" started-at="2023-04-29T07:25:52Z" finished-at="2023-04-29T07:25:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.LoginTest.test1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.LoginTest@6591f517]" name="test1" duration-ms="7963" started-at="2023-04-29T07:25:56Z" finished-at="2023-04-29T07:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:test.LoginTest@6591f517]" name="TearDown" is-config="true" duration-ms="836" started-at="2023-04-29T07:26:04Z" finished-at="2023-04-29T07:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:test.LoginTest@6591f517]" name="SetUp" is-config="true" duration-ms="2803" started-at="2023-04-29T07:26:04Z" finished-at="2023-04-29T07:26:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.LoginTest.test2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:test.LoginTest@6591f517]" name="test2" duration-ms="8350" started-at="2023-04-29T07:26:07Z" finished-at="2023-04-29T07:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:test.LoginTest@6591f517]" name="TearDown" is-config="true" duration-ms="907" started-at="2023-04-29T07:26:16Z" finished-at="2023-04-29T07:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp(java.lang.reflect.Method)[pri:0, instance:test.LoginTest@6591f517]" name="SetUp" is-config="true" duration-ms="2834" started-at="2023-04-29T07:26:17Z" finished-at="2023-04-29T07:26:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.LoginTest.test4() throws com.codoid.products.exception.FilloException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:test.LoginTest@6591f517]" name="test4" duration-ms="8162" started-at="2023-04-29T07:26:19Z" finished-at="2023-04-29T07:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:test.LoginTest@6591f517]" name="TearDown" is-config="true" duration-ms="951" started-at="2023-04-29T07:26:28Z" finished-at="2023-04-29T07:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="ReportClean()[pri:0, instance:test.LoginTest@6591f517]" name="ReportClean" is-config="true" duration-ms="876" started-at="2023-04-29T07:26:28Z" finished-at="2023-04-29T07:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportClean -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
